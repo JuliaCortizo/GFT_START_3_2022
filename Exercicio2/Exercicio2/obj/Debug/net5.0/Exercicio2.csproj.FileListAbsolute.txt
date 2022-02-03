@@ -1,0 +1,16 @@
+C:\Users\corti\Desktop\GFT 3\Exercicio2\Exercicio2\bin\Debug\net5.0\Exercicio2.exe
+C:\Users\corti\Desktop\GFT 3\Exercicio2\Exercicio2\bin\Debug\net5.0\Exercicio2.deps.json
+C:\Users\corti\Desktop\GFT 3\Exercicio2\Exercicio2\bin\Debug\net5.0\Exercicio2.runtimeconfig.json
+C:\Users\corti\Desktop\GFT 3\Exercicio2\Exercicio2\bin\Debug\net5.0\Exercicio2.runtimeconfig.dev.json
+C:\Users\corti\Desktop\GFT 3\Exercicio2\Exercicio2\bin\Debug\net5.0\Exercicio2.dll
+C:\Users\corti\Desktop\GFT 3\Exercicio2\Exercicio2\bin\Debug\net5.0\ref\Exercicio2.dll
+C:\Users\corti\Desktop\GFT 3\Exercicio2\Exercicio2\bin\Debug\net5.0\Exercicio2.pdb
+C:\Users\corti\Desktop\GFT 3\Exercicio2\Exercicio2\obj\Debug\net5.0\Exercicio2.csproj.AssemblyReference.cache
+C:\Users\corti\Desktop\GFT 3\Exercicio2\Exercicio2\obj\Debug\net5.0\Exercicio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\corti\Desktop\GFT 3\Exercicio2\Exercicio2\obj\Debug\net5.0\Exercicio2.AssemblyInfoInputs.cache
+C:\Users\corti\Desktop\GFT 3\Exercicio2\Exercicio2\obj\Debug\net5.0\Exercicio2.AssemblyInfo.cs
+C:\Users\corti\Desktop\GFT 3\Exercicio2\Exercicio2\obj\Debug\net5.0\Exercicio2.csproj.CoreCompileInputs.cache
+C:\Users\corti\Desktop\GFT 3\Exercicio2\Exercicio2\obj\Debug\net5.0\Exercicio2.dll
+C:\Users\corti\Desktop\GFT 3\Exercicio2\Exercicio2\obj\Debug\net5.0\ref\Exercicio2.dll
+C:\Users\corti\Desktop\GFT 3\Exercicio2\Exercicio2\obj\Debug\net5.0\Exercicio2.pdb
+C:\Users\corti\Desktop\GFT 3\Exercicio2\Exercicio2\obj\Debug\net5.0\Exercicio2.genruntimeconfig.cache
